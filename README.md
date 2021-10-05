@@ -3,7 +3,7 @@ This is a simple Tic-Tac-Toe Game.\
 PySide6 is used for ui.
 ## Properties
 ✅ Check all win and draw modes\
-✅ New Game Buttonپ
+✅ New Game Button\
 ✅ Player vs cpu and player vs player modes by using radio button\
 ✅ About Butto\
 ✅ Score board design to show the number of wins, losses and draws
