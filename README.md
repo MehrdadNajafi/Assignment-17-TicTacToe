@@ -5,7 +5,7 @@ PySide6 is used for ui.
 ✅ Check all win and draw modes\
 ✅ New Game Button\
 ✅ Player vs cpu and player vs player modes by using radio button\
-✅ About Butto\
+✅ About Button\
 ✅ Score board design to show the number of wins, losses and draws
 ## Screen Shots
 ![Desktop Screenshot 2021 10 05 - 19 38 56 68](https://user-images.githubusercontent.com/88179607/136063432-6dd3dabe-80e0-411d-a614-4a8caa556822.png)
